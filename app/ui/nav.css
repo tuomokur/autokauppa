@@ -1,0 +1,25 @@
+.nav {
+    margin: 2em 0;
+    display: flex;
+}
+
+.logo {
+    fill: #558da0;
+}
+
+.nav-buttons {
+    margin-left: auto;
+}
+
+.nav-button {
+    font-size: .5em;
+    margin: 0.5rem;
+    color: rgb(11, 11, 11);
+    background-color: rgba(196, 196, 196, 0.521);
+    border: none;
+}
+
+.nav-button:hover {
+    color: rgb(241, 241, 241);
+    background-color: rgba(7, 7, 7, 0.642);
+}
